@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272878888816",
+    "project_id": "personaltodo-5a225",
+    "storage_bucket": "personaltodo-5a225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272878888816:android:264b08a5ec33135ecb51b5",
+        "android_client_info": {
+          "package_name": "com.example.personaltodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBS16Hl7-GP9DgmvfdZDFjjfZaP9tzJXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
